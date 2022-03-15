@@ -1,0 +1,4 @@
+nix/
+lib/
+.github/
+shell.nix

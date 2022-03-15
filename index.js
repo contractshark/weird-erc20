@@ -1,2 +1,2 @@
-const weirdERC20 = require('./index.js');
+const weirdERC20 = require('./contracts/index.js');
 export default weirdERC20;
